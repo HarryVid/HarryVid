@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vidharth
 - 👀 I’m interested in ... Research and Development of Applied Deep Reinforcement Learning in Different Domains, Currently Focusing on Robotics.
-- 🌱 I’m currently learning ... Deep Reinforcement Learning, Tensorflow, Pytorch, ROS, Python, Rust, C, C++
+- 🌱 I’m currently learning ... Deep Reinforcement Learning, Tensorflow, Pytorch, ROS, Python
 - 💞️ I’m looking to collaborate on ... R&D Projects on Deep Reinforcement Learning
 - 📫 How to reach me ... viju1145@gmail.com
 
