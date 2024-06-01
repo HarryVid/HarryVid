@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vidharth
-- 👀 I’m interested in ... Research and Development of Applied Deep Reinforcement Learning in Different Domains, Currently Focusing on Robotics.
-- 🌱 I’m currently learning ... Deep Reinforcement Learning, Tensorflow, Pytorch, ROS, Python
-- 💞️ I’m looking to collaborate on ... R&D Projects on Deep Reinforcement Learning
+- 👀 I’m interested in ... Research and Development of Applied AI, Reinforcement Learning, AI Agents, Privacy Preserving Machine Learning, Low Resource Computing, AI Ethics.
+- 🌱 I’m currently learning ... Vision Transformers, Q Transformers and LLMs.
+- 💞️ I’m looking to collaborate on ... R&D Projects on Context Aware Real Timne AI Agents.
 - 📫 How to reach me ... viju1145@gmail.com
 
 <!---
