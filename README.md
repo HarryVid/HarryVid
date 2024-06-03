@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vidharth
-- 👀 I’m interested in ... Research and Development of Applied AI, Reinforcement Learning, AI Agents, Privacy Preserving Machine Learning, Low Resource Computing, AI Ethics.
+- 👀 I’m interested in ... Research and Development of Applied AI, Reinforcement Learning, Meta Learning, AI Agents, Privacy Preserving Machine Learning, Low Resource Computing, Explainable AI & AI Ethics.
 - 🌱 I’m currently learning ... Vision Transformers, Q Transformers and LLMs.
-- 💞️ I’m looking to collaborate on ... R&D Projects on Context Aware Real Time AI Agents, AI Automation, AI Assistants.
+- 💞️ I’m looking to collaborate on ... R&D Projects on Context Aware Real Time AI Agents, AI Automation, AI Assistants  & Other cool AI Research & Engineering Projects.
 - 📫 How to reach me ... viju1145@gmail.com
 
 <!---
