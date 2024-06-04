@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @Vidharth
-- 👀 I’m interested in ... Research and Development of Applied AI, Reinforcement Learning, Meta Learning, AI Agents, Privacy Preserving Machine Learning, Low Resource Computing, Explainable AI & AI Ethics.
-- 🌱 I’m currently learning ... Vision Transformers, Q Transformers and LLMs.
-- 💞️ I’m looking to collaborate on ... R&D Projects on Context Aware Real Time AI Agents, AI Automation, AI Assistants  & Other cool AI Research & Engineering Projects.
-- 📫 How to reach me ... viju1145@gmail.com
+👋 Welcome to My GitHub Profile!
 
-<!---
-Vidharth/Vidharth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm Vidharth 🌟
+I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics.
+
+🔍 About Me
+💼 Current Role: Recent Graduate
+🎓 Education: Master's Degree in Artificial Intelligence
+
+🔬 Research Interests
+Path to AGI
+Reinforcement Learning & Meta Learning
+Ethical AI & Explainable AI
+AI Agents & AI Assistants
+Autonomous Systems & Robotics
+Privacy Preserving Machine Learning & Low Resource Computing
+
+🚀 Skills & Expertise
+Deep Learning
+Reinforcement Learning
+Transformers
+
+🛠️ Tools & Technologies
+Coding: Python, (C, Rust, GO: Learning in Progress)
+Scripting: Shell, Docker, Git, Latex
+AI: Numpy, SkLearn, Pytorch, Tensorflow, MXNet, Keras, Jax, Gym
+
+📈 Projects & Contributions
+Project Name: [Brief description with link to repository]
+Project Name: [Brief description with link to repository]
+
+📚 Currently Learning/Working On
+Context Aware Vision Transformers
+Contex Aware LLMs & Language Transformers
+Context Aware Reinforcement Learning & Q Transformers
+AI Agents
+
+🤝 Looking to Collaborate On
+AI Agents
+AI Assistants
+AI Automation
+Robots
+Any other cool ideas or open source projects
+
+📫 Get in Touch
+Email: viju1145@gmail.com
