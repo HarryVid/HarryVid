@@ -16,7 +16,7 @@
 - 🤖 **Path to AGI**
 - 🧠 **Reinforcement Learning & Meta Learning**
 - ⚖️ **Ethical AI & Explainable AI**
-- 👥 **AI Agents & AI Assistants**
+- 👥 **AI Agents, Assistants, Automation**
 - 🚀 **Autonomous Systems & Robotics**
 - 🔒 **Privacy Preserving Machine Learning & Low Resource Computing**
 
