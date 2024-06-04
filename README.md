@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub! 👋
 
-## Hi there! I'm Vidharth 🌟
+## Helloo there! I'm Vidharth 🌟
 
 "I aspire to work at the intersection of Research \& Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."
 
@@ -37,8 +37,8 @@
 ---
 
 ### 📈 Projects & Contributions
-- **Project Name:** [🔗 Brief description with link to repository]
-- **Project Name:** [🔗 Brief description with link to repository]
+- **Research Project:** [🔗 Addressing One of the Drawbacks of Real World Reinforcement Learning]
+- **Engineering Project:** [🔗 A ChatGPT Styled Interactive Application for Code & Test Case Generation & Execution]
 
 ---
 
