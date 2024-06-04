@@ -2,7 +2,7 @@
 
 ## Hi there! I'm Vidharth 🌟
 
-I aspire to work at the intersection of **Research & Development**, leveraging state-of-the-art **AI research** to develop high-quality solutions for real-world problems. My goal is to engineer practical applications while upholding the highest standards of **AI ethics**.
+"I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."
 
 ---
 
