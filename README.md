@@ -19,6 +19,8 @@
 - 👥 **AI Agents, AI Assistants, AI Automation**
 - 👁️ **Context Aware AI**
 - 🚀 **Autonomous Systems & Robotics**
+- 🎮 **Multi Goal/Multi Task Learning & Long Horizon Tasks**
+- ⚙️ **Continual/Life Long Learning**
 - 🔒 **Privacy Preserving Machine Learning & Low Resource Computing**
 
 ---
