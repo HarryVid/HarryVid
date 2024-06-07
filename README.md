@@ -25,10 +25,17 @@
 
 ---
 
+### 📚 Currently Learning/Working On
+- 👁️ **Context Aware Vision Transformers**
+- 📜 **Context Aware LLMs & Language Transformers**
+- 🎮 **Context Aware Reinforcement Learning & Q Transformers**
+- 🛠️ **AI Agents**
+
+---
+
 ### 🚀 Skills & Expertise
 - 🌊 **Deep Learning**
 - 🔄 **Reinforcement Learning**
-- 🧩 **Transformers**
 
 ---
 
@@ -43,14 +50,6 @@
 - **Research Project:** [🔗 Addressing One of the Drawbacks of Real World Reinforcement Learning]
 - **Engineering Project:** [🔗 A ChatGPT Styled Interactive Application for Code & Test Case Generation & Execution]
 - **Paper to Code:** [🔗 Libraries, Architectures, Algorithms & Others]
-
----
-
-### 📚 Currently Learning/Working On
-- 👁️ **Context Aware Vision Transformers**
-- 📜 **Context Aware LLMs & Language Transformers**
-- 🎮 **Context Aware Reinforcement Learning & Q Transformers**
-- 🛠️ **AI Agents**
 
 ---
 
