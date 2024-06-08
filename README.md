@@ -1,10 +1,11 @@
 Helloo & Welcome ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vidharth
 =====================================================================================================================================
 
-Recent Graduate | Artificial Intelligence
------------------------------------------
-
-"I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."
+### 🔍 About Me
+- 💼 **Current Role:** Recent Graduate
+- 🎓 **Education:** Master's Degree in Artificial Intelligence
+- "I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."
+---
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [viju1145@gmail.com](mailto:viju1145@gmail.com)
