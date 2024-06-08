@@ -7,6 +7,19 @@ Helloo & Welcome ![](https://user-images.githubusercontent.com/18350557/17630978
 - "I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."
 ---
 
+### 🔬 Research Interests
+- 🤖 **Path to AGI**
+- 🧠 **Reinforcement Learning & Meta Learning**
+- ⚖️ **Ethical AI & Explainable AI**
+- 👥 **AI Agents, AI Assistants, AI Automation**
+- 👁️ **Context Aware AI**
+- 🚀 **Autonomous Systems & Robotics**
+- 🎮 **Multi Goal/Multi Task Learning & Long Horizon Tasks**
+- 🔄 **Continual/Life Long Learning**
+- 🔒 **Privacy Preserving Machine Learning & Low Resource Computing**
+- 🛡️ **AI Cybersecurity**
+---
+
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [viju1145@gmail.com](mailto:viju1145@gmail.com)
 *   🧠  I'm learning AI Agents
