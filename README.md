@@ -4,7 +4,7 @@ Helloo & Welcome ![](https://user-images.githubusercontent.com/18350557/17630978
 ### 🔍 About Me
 - 💼 **Current Role:** Recent Graduate
 - 🎓 **Education:** Master's Degree in Artificial Intelligence
-- "I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."
+- **"I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."**
 ---
 
 ### 🔬 Research Interests
