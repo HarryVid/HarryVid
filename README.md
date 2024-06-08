@@ -35,7 +35,7 @@ Helloo & Welcome ![](https://user-images.githubusercontent.com/18350557/17630978
 ### 🛠️ Tools & Technologies
 - **Coding:** Python, (C, Rust, GO: Learning in Progress)
 - **Scripting:** Shell, Docker, Git, LaTeX
-- **AI:** NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras, JAX, OpenAI-Gym
+- **AI:** NumPy, Scikit-Learn, PyTorch, TensorFlow, JAX, OpenAI-Gymm LangChain
 ---
 
 ### 📈 Projects & Contributions
