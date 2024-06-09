@@ -58,7 +58,7 @@
 
 ### 📫 Get in Touch
 - 📧 **Email:** viju1145@gmail.com
-- Feel free to reach out if you share similar interests or have exciting projects to collaborate on. Let's push the boundaries of AI together!
+- 🗨️ Feel free to reach out if you share similar interests or have exciting projects to collaborate on. Let's push the boundaries of AI together!
 ---
 
 <p align="left">
