@@ -14,8 +14,8 @@
 - 🤖 **Path to AGI**
 - 🧠 **Reinforcement Learning & Meta Learning**
 - ⚖️ **Ethical AI & Explainable AI**
-- 👥 **AI Agents, AI Assistants, AI Automation**
-- 👁️ **Context Aware AI**
+- 👥 **AI Assistants & AI Automation**
+- 👁️ **Context Aware AI & AI Agents**
 - 🚀 **Autonomous Systems & Robotics**
 - 🎮 **Multi Goal Learning & Multi Task Learning & Long Horizon Tasks**
 - 🔄 **Continual Learning & Life Long Learning**
