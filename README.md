@@ -39,7 +39,7 @@
 ### 🛠️ Tools & Technologies
 - **Programming Languages:** Python, (Learning: C, Rust, Go)
 - **Scripting Tools:** Shell, Docker, Git, LaTeX
-- **AI Frameworks:** NumPy, Scikit-Learn, PyTorch, TensorFlow, OpenAI-Gym, OpenAI-AP
+- **AI Frameworks:** NumPy, Scikit-Learn, PyTorch, TensorFlow, OpenAI-Gym, OpenAI-API
 - **Other Frameworks:** LangChain, FastAPI, Streamlit, Flask, ROS, Open-CV, W&B, Sqlite, ChromaDB, HuggingFace
 ---
 
