@@ -20,6 +20,7 @@
 - 🎮 **Multi Goal Learning & Multi Task Learning & Long Horizon Tasks**
 - 🔄 **Continual Learning & Life Long Learning**
 - 🔒 **Privacy Preserving Machine Learning & Low Resource Computing**
+- 🎮 **AI for Gaming**
 - 🛡️ **AI Cybersecurity**
 ---
 
