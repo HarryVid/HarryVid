@@ -11,7 +11,7 @@
 ---
 
 ### 🔬 Research Interests
-- 🤖 **Path to AGI**
+- 🤖 **Path to AGI & ASI**
 - 🧠 **Reinforcement Learning & Meta Learning**
 - 🧠 **Evolutionary Algorithms**
 - ⚖️ **Ethical AI & Explainable AI**
