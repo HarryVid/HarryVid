@@ -13,6 +13,7 @@
 ### 🔬 Research Interests
 - 🤖 **Path to AGI**
 - 🧠 **Reinforcement Learning & Meta Learning**
+- 🧠 **Evolutionary Algorithms**
 - ⚖️ **Ethical AI & Explainable AI**
 - 👥 **AI Assistants & AI Automation**
 - 👁️ **Context Aware AI & AI Agents**
