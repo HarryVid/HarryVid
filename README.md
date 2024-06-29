@@ -47,7 +47,7 @@
 
 ### 📈 Projects & Contributions
 - **Research Project:** [🔗 Addressing One of the Drawbacks of Real World Reinforcement Learning]
-- **Engineering Project:** [🔗 A ChatGPT Styled Interactive Application for Code & Test Case Generation & Execution]
+- **Others:** [🔗 Other Side Projects & In Progress Projects Can Be Found in Repository & Website Respectively]
 - **Paper to Code:** [🔗 Libraries, Architectures, Algorithms & Others]
 ---
 
