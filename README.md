@@ -5,13 +5,12 @@
 ## I'm Vidharth!
 
 ### 🔍 About Me
-- 💼 **Current Role:** Recent Graduate
+- 💼 **Current Role:** Recent Graduate/Research Intern
 - 🎓 **Education:** Master's Degree in Artificial Intelligence
 - 🗣️ **"I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."**
 ---
 
 ### 🔬 Research Interests
-- 🤖 **Path to AGI & ASI**
 - 🧠 **Reinforcement Learning & Meta Learning**
 - 🧠 **Evolutionary Algorithms**
 - ⚖️ **Ethical AI & Explainable AI**
@@ -26,8 +25,6 @@
 ---
 
 ### 📚 Currently Learning/Working On
-- 👁️ **Context Aware Vision Transformers**
-- 📜 **Context Aware LLM's & Language Transformers**
 - 🎮 **Context Aware Reinforcement Learning & Q Transformers**
 - 🛠️ **AI Agents & LAM's**
 ---
@@ -36,12 +33,13 @@
 - 🌊 **Deep Learning**
 - 🔄 **Reinforcement Learning**
 - 📜 **Prompt Engineering**
+- - 🛠️ **AI Agents**
 ---
 
 ### 🛠️ Tools & Technologies
-- **Programming Languages:** Python, (Learning: C, Rust, Go)
+- **Programming Languages:** Python, (Learning: C, Rust)
 - **Scripting Tools:** Shell, Docker, Git, LaTeX
-- **Simulators:** ROS, Gazebo/Rviz, OpenAI-Gym, MuJoCo, PyBullet
+- **Simulators:** ROS, Gazebo, Rviz, OpenAI-Gym, MuJoCo, PyBullet
 - **Other Libraries:** LangChain, FastAPI, Streamlit, Gradio, Flask, Open-CV, W\&B, Sqlite, ChromaDB, HuggingFace
 ---
 
