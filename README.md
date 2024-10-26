@@ -1,4 +1,4 @@
-# Helloo & Welcome!!
+# Helloo & Welcome!
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
@@ -60,7 +60,7 @@
 ---
 
 ### 📫 Get in Touch
-- 📧 **Email:** viju1145@gmail.com
+- 📧 **Email:** harryvidbiz@gmail.com
 - 🗨️ Feel free to reach out if you share similar interests or have exciting projects to collaborate on. Let's push the boundaries of AI together!
 ---
 
