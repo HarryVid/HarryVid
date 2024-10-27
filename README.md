@@ -43,9 +43,9 @@ I’m **Vidharth** – a recent graduate and research intern with a passion for 
 ---
 
 ### 📈 **Projects & Contributions**
-- **Research:** [🔗 Addressing Challenges in Real-World RL](#)
-- **Side Projects:** Check out my **[repository](#)** for ongoing projects and contributions.
-- **Paper-to-Code Implementations:** Explore libraries, algorithms, and architectures in my **[Paper-to-Code section](#)**.
+- **Research:** Addressing on of the challenges of real world reinforcement learning.
+- **Side Projects:** Check out my repositories for ongoing projects and contributions.
+- **Paper-to-Code Implementations:** Explore libraries, algorithms, and architectures in my repos.
 
 ---
 
