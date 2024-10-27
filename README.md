@@ -7,7 +7,7 @@
 ### 🔍 About Me
 - 💼 **Current Role:** Recent Graduate/Research Intern
 - 🎓 **Education:** Master's Degree in Artificial Intelligence
-- 🗣️ **"I aspire to work at the intersection of Research & Development, leveraging state-of-the-art AI research to develop high quality solutions for real world problems while engineering practical applications and upholding the highest standards of AI ethics."**
+- 🗣️ **"I aspire to work at the intersection of Research & Development by leveraging state-of-the-art research to develop quality & innovative solutions to real-world problems & engineer creative & practical applications while upholding the highest standards of ethics."**
 ---
 
 ### 🔬 Research Interests
@@ -22,18 +22,25 @@
 - 🔒 **Privacy Preserving Machine Learning & Low Resource Computing**
 - 🎮 **AI for Gaming**
 - 🛡️ **AI Cybersecurity**
+- **Human AI Interaction**
+- **Foundation & Generalist & World Models**
 ---
 
 ### 📚 Currently Learning/Working On
 - 🎮 **Context Aware Reinforcement Learning & Q Transformers**
 - 🛠️ **AI Agents & LAM's**
+- **Transformers & Diffusion Models for Reinforcement Learning**
+- **Foundation Models for Reinforcement Learning & Robotics**
+- **Continual & LifeLong Learning for RL Robotics**
+- **Generalist & World Models for RL Robotics**
+- **DL & RL Learning on Encrypted Data**
 ---
 
 ### 🚀 Skills & Expertise
 - 🌊 **Deep Learning**
 - 🔄 **Reinforcement Learning**
 - 📜 **Prompt Engineering**
-- - 🛠️ **AI Agents**
+- 🛠️ **AI Agents**
 ---
 
 ### 🛠️ Tools & Technologies
@@ -54,6 +61,7 @@
 - 🗣️ **AI Assistants**
 - ⚙️ **AI Automation**
 - 🤖 **Robots**
+- **Reinforcement Learning**
 - 💡 **Any other cool ideas or open-source projects**
 ---
 
