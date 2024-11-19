@@ -31,6 +31,7 @@ I’m **Vidharth** – a recent graduate and research intern with a passion for 
 ### 💼 **Skills & Expertise**
 - **Deep Learning** | **Reinforcement Learning**
 - **AI Agents** | **Prompt Engineering**
+- **Prompt Hacking & Jailbreaking**
 
 ---
 
@@ -38,14 +39,14 @@ I’m **Vidharth** – a recent graduate and research intern with a passion for 
 - **Programming:** Python (Learning C, Rust)
 - **Scripting:** Shell, Docker, Git, LaTeX
 - **Simulators:** ROS, Gazebo, Rviz, OpenAI-Gym, MuJoCo, PyBullet
-- **Libraries:** LangChain, FastAPI, Streamlit, Gradio, Flask, OpenCV, W&B, SQLite, ChromaDB, Hugging Face
+- **Libraries:** FastAPI, Streamlit, Gradio, Flask, OpenCV, W&B, SQLite, HuggingFace, AutoGen, Swarm, Dify
 
 ---
 
 ### 📈 **Projects & Contributions**
 - **Research:** Addressing on of the challenges of real world reinforcement learning.
 - **Side Projects:** Check out my repositories for ongoing projects and contributions.
-- **Paper-to-Code Implementations:** Explore libraries, algorithms, and architectures in my repos.
+- **Paper-to-Code:** Explore libraries, algorithms, and architectures.
 
 ---
 
