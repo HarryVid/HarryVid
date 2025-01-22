@@ -4,62 +4,55 @@
 
 ## 🚀 About Me
 
-I’m **Vidharth** – a recent graduate and research intern with a passion for **AI research** and **innovation**. My mission is to bridge **cutting-edge research** with **real-world applications**, creating solutions that are impactful, ethical, and practical.
+I’m **Vidharth** – a recent graduate and intern with a passion for **Applied AI research**. My mission is to bridge **cutting-edge research** with **real-world applications**, creating solutions that are practical and ethical.
 
 ---
 
 ### 🔬 **Research Interests**
-- **Reinforcement Learning** | **Meta Learning** | **Multi-Task Learning**
-- **Evolutionary Algorithms** | **Continual & Life-Long Learning**
-- **Ethical & Explainable AI** | **Privacy-Preserving Machine Learning**
-- **Context-Aware AI** | **AI Assistants & Automation**
-- **Autonomous Systems & Robotics** | **AI for Gaming**
-- **Human-AI Interaction** | **AI Cybersecurity**
-- **Generalist Models** | **World Models**
+- **Reinforcement Learning**
+- **Meta Learning**
+- **Evolutionary Algorithms**
+- **Continual & Life-Long Learning**
+- **Ethical & Explainable AI**
+- **Privacy-Preserving Machine Learning**
+- **AI Assistants, Agents & Automation**
+- **Autonomous Systems & Robotics**
+- **Human-AI Interaction**
+- **World Models**
 
 ---
 
 ### 📚 **Currently Learning / Working On**
-- **Context-Aware Reinforcement Learning** | **Q Transformers**
-- **Foundation Models for RL & Robotics**
-- **Transformers & Diffusion Models for RL**
-- **AI Agents** | **LAMs**
-- **RL on Encrypted Data** | **Low Resource Computing**
+- **Reinforcement Learning Research**
+- **AI Agents**
 
 ---
 
 ### 💼 **Skills & Expertise**
-- **Deep Learning** | **Reinforcement Learning**
+- **Deep Learning** | **Reinforcement Learning** | **Gen AI**
 - **AI Agents** | **Prompt Engineering**
 - **Prompt Hacking & Jailbreaking**
 
 ---
 
-### 🛠️ **Tools & Technologies**
-- **Programming:** Python (Learning C, Rust)
-- **Scripting:** Shell, Docker, Git, LaTeX
-- **Simulators:** ROS, Gazebo, Rviz, OpenAI-Gym, MuJoCo, PyBullet
-- **Libraries:** FastAPI, Streamlit, Gradio, Flask, OpenCV, W&B, SQLite, HuggingFace, AutoGen, Swarm, Dify
-
----
-
 ### 📈 **Projects & Contributions**
-- **Research:** Addressing on of the challenges of real world reinforcement learning.
+- **Research:** Addressing one of the challenges of real world reinforcement learning.
 - **Side Projects:** Check out my repositories for ongoing projects and contributions.
 - **Paper-to-Code:** Explore libraries, algorithms, and architectures.
 
 ---
 
 ### 🤝 **Open to Collaborate On**
-- **AI Agents** | **AI Assistants** | **Robotics**
-- **Reinforcement Learning** | **AI Automation**
+- **AI Agents**
+- **Reinforcement Learning**
+- **Robotics & Autonomous Systems**
 - **Open-Source Projects & Exciting New Ideas**
 
 ---
 
 ### 📫 **Get in Touch**
-- **Email:** harryvidbiz@gmail.com
-- I’m always excited to connect with like-minded enthusiasts or collaborators. Let’s push the boundaries of AI together!
+- **Email:** harryvidme@gmail.com
+- I’m always excited to connect with like-minded enthusiasts or collaborators. Let’s push the boundaries of technology together!
 
 --- 
 
