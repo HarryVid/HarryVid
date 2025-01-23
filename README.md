@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I’m **Vidharth** – a recent graduate and intern with a passion for **Applied AI research**. My mission is to bridge **cutting-edge research** with **real-world applications**, creating solutions that are practical and ethical.
+I’m **Vidharth** – a recent graduate and intern with a passion for Applied AI research. My mission is to bridge cutting-edge research with real-world applications, creating solutions that are practical and ethical.
 
 ---
 
